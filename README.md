@@ -3,8 +3,8 @@
 ### Real-Time Monocular Depth Estimation Using MiDaS
 
 <p align="center">
-  <img src="assets/project-banner.png" alt="DepthSense-AI Banner" width="50%">
-  <img src="assets/project-banner2.png" alt="DepthSense-AI Banner2" width="50%">
+  <img src="assets/project-banner.png" alt="DepthSense-AI Banner" width="40%">
+  <img src="assets/project-banner2.png" alt="DepthSense-AI Banner2" width="40%">
 </p>
 
 <p align="center">
