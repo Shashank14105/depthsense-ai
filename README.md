@@ -4,7 +4,15 @@
 
 <p align="center">
   <img src="assets/project-banner.png" alt="DepthSense-AI Banner" width="50%">
-  <img src="assets/project-banner1.png" alt="DepthSense-AI Banner1" width="50%">
+  <img src="assets/project-banner2.png" alt="DepthSense-AI Banner2" width="50%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue">
+  <img src="https://img.shields.io/badge/Pytorch-orange">
+  <img src="https://img.shields.io/badge/OpenCV-red">
+  <img src="https://img.shields.io/badge/MiDaS-green">
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey">
 </p>
 
 ## Overview
